@@ -31,3 +31,4 @@ Interpreted program can be open only if we have "interpreter" installed on our c
 5. Colocation
     (Renting some space for your servers in special centres).
     
+    
